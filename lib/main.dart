@@ -1,6 +1,6 @@
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:note_pad/home_screen.dart';
+import 'package:note_pad/view/home_screen.dart';
 
 
 void main() {
